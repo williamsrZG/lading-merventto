@@ -1,0 +1,16 @@
+¿Qué es un archivo vectorial y por qué es importante?
+
+Un archivo vectorial es un tipo de imagen digital que se compone de líneas, curvas y formas matemáticas en lugar de píxeles. A diferencia de una imagen en formato JPG o PNG, que pierde calidad al agrandarse, los archivos vectoriales pueden ampliarse indefinidamente sin perder nitidez ni resolución.
+
+¿Para qué sirve un archivo vectorial?
+
+Impresión de alta calidad: Se usa para imprenta, gigantografías, carteles y cualquier material gráfico que necesite máxima definición.
+
+Edición y personalización: Permite cambiar colores, formas y tamaños sin perder calidad.
+
+Uso profesional: Es el formato que utilizan diseñadores y proveedores de impresión para garantizar la mejor reproducción del logo.
+
+
+¿Cómo usarlo?
+
+Los archivos vectoriales suelen estar en formatos como AI, EPS, PDF o SVG y requieren programas especializados para su edición, como Adobe Illustrator, CorelDRAW o Inkscape. Si necesitas enviar el logo para impresión o producción, siempre es recomendable utilizar el archivo vectorial, ya que garantiza la mejor calidad y compatibilidad.
